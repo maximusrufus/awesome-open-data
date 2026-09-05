@@ -1,4 +1,4 @@
-# Awesome Open Data [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Open Data [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -99,11 +99,11 @@ Open data enables transparency, innovation, and collaboration across science, go
 
 ## Related Awesome Lists
 
-- **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)** – Tools and communities for open scientific collaboration.
-- **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)** – Transparency, civic tech, and open public policy tools.
-- **[Awesome Civic Tech](https://github.com/awesomelistsio/awesome-civic-tech)** – Platforms and communities using tech for civic engagement.
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)** – Political datasets, theory, and analysis.
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)** – Resources for investigative and data journalism.
+- **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)** – Tools and communities for open scientific collaboration.
+- **[Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)** – Transparency, civic tech, and open public policy tools.
+- **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech)** – Platforms and communities using tech for civic engagement.
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)** – Political datasets, theory, and analysis.
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)** – Resources for investigative and data journalism.
   
 ## Contribute
 
