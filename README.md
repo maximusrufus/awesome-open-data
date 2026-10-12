@@ -48,6 +48,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Figshare](https://figshare.com/) – Repository for research outputs and datasets.
 - [Zenodo](https://zenodo.org/) – Open-access research sharing platform developed by CERN.
 - [Dryad](https://datadryad.org/) – Curated, general-purpose repository for research data.
+- [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) – Best-known values for extremal mathematics problems, with primary sources and supersession history.
 - [PLOS Data Repository](https://plos.org/data-accessibility/) – Promotes open data in science publishing.
 
 ## Geospatial & Mapping Data
